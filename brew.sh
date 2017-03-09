@@ -15,6 +15,8 @@ brew install coreutils
 # Install `wget` with IRI support.
 brew install wget --with-iri
 
+brew install yarn
+
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
 brew install homebrew/dupes/grep
