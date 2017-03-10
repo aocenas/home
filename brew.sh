@@ -27,5 +27,11 @@ brew install sfnt2woff
 brew install sfnt2woff-zopfli
 brew install woff2
 
+brew tap caskroom/cask
+brew cask install slack
+brew cask install spotify
+brew cask install sourcetree
+brew cask install webstorm
+
 # Remove outdated versions from the cellar.
 brew cleanup
