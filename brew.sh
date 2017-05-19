@@ -16,6 +16,7 @@ brew install coreutils
 brew install wget --with-iri
 
 brew install yarn
+brew install pyenv-virtualenv
 
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi

@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Open any app
+sudo spctl --master-enable
+
 # Disable transparency in the menu bar and elsewhere on Yosemite
 defaults write com.apple.universalaccess reduceTransparency -bool true
 
