@@ -35,6 +35,7 @@ brew cask install sourcetree
 brew cask install webstorm
 brew cask install pycharm
 brew cask install iterm2
+brew cask install spectacle
 
 # Remove outdated versions from the cellar.
 brew cleanup
