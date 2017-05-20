@@ -33,6 +33,8 @@ brew cask install slack
 brew cask install spotify
 brew cask install sourcetree
 brew cask install webstorm
+brew cask install pycharm
+brew cask install iterm2
 
 # Remove outdated versions from the cellar.
 brew cleanup
