@@ -31,11 +31,16 @@ brew install woff2
 brew tap caskroom/cask
 brew cask install slack
 brew cask install spotify
-brew cask install sourcetree
-brew cask install webstorm
-brew cask install pycharm
+# brew cask install sourcetree
+# brew cask install webstorm
+# brew cask install pycharm
 brew cask install iterm2
 brew cask install spectacle
+brew cask install jetbrains-toolbox
+brew cask install docker
+brew install docker-compose
+brew cask install google-backup-and-sync
+brew install nvm
 
 # Remove outdated versions from the cellar.
 brew cleanup
