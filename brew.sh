@@ -42,10 +42,10 @@ brew install docker-compose
 brew cask install google-backup-and-sync
 brew install nvm
 # Manual
-echo "install trailer"
-echo "install kap"
-echo "install sublime merge"
-echo "install tableplus"
+brew cask install trailer
+brew cask install kap
+brew cask install sublime-merge
+brew cask install tableplus
 
 # Remove outdated versions from the cellar.
 brew cleanup
