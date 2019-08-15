@@ -16,17 +16,17 @@ brew install coreutils
 brew install wget --with-iri
 
 brew install yarn
-brew install pyenv-virtualenv
+# brew install pyenv-virtualenv
 
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
 brew install homebrew/dupes/grep
 
 # Install font tools.
-brew tap bramstein/webfonttools
-brew install sfnt2woff
-brew install sfnt2woff-zopfli
-brew install woff2
+# brew tap bramstein/webfonttools
+# brew install sfnt2woff
+# brew install sfnt2woff-zopfli
+# brew install woff2
 
 brew tap caskroom/cask
 brew cask install slack
@@ -41,6 +41,11 @@ brew cask install docker
 brew install docker-compose
 brew cask install google-backup-and-sync
 brew install nvm
+# Manual
+echo "install trailer"
+echo "install kap"
+echo "install sublime merge"
+echo "install tableplus"
 
 # Remove outdated versions from the cellar.
 brew cleanup
