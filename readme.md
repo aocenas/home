@@ -1,3 +1,5 @@
+1. install brew
+
 ```
 ./bootstrap.sh
 ./brew.sh
@@ -12,7 +14,7 @@
 1. dark menu bar, scroll to point clicked `System Preferences > general`
 1. dock size, position right `System Preferences > dock`
 1. add input source SK `System Preferences > language region > keyboard preferences > input sources`
-1. show full date `System Preferences > language region > keyboard preferences > input sources`
+1. show full date `System Preferences > date and time`
 1. allow spectacle `System Preferences > security privacy > privacy > accessibility`
 1. iterm crank up contrast otherwise some text is not visible due to solarized colors `preferences > profiles > colors`
 1. iterm cmd-d duplicate `preferences > keys > add menu item`
